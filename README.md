@@ -48,5 +48,5 @@ Sense HAT → Raspberry Pi (Python) → encodage CayenneLPP → LoRaWAN (module 
 
 - Données reçues et affichées correctement sur le dashboard Node-RED.
 - L'analyse montre qu'un SF élevé élargit la portée (les gateways distantes
-  captent davantage) au prix d'un débit réduit — conforme à la théorie LoRaWAN.
+  captent davantage) au prix d'un débit réduit —conforme à la théorie LoRaWAN.
 
