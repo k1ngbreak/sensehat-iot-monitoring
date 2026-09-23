@@ -40,7 +40,7 @@ Sense HAT → Raspberry Pi (Python) → encodage CayenneLPP → LoRaWAN (module 
 - [`TP_Performances_LoRaWAN.ipynb`](./TP_Performances_LoRaWAN.ipynb) : analyse des trames capturées
   (30 par Spreading Factor, SF7 à SF12) — graphiques RSSI, SNR et taux de
   réception par gateway.
-- [`Rapport.pdf`](./Rapport.pdf) : rapport complet
+- [`Rapport_IOT.pdf`](./Rapport_IOT.pdf) : rapport complet
   du projet (M2 SECIL).
 
 
