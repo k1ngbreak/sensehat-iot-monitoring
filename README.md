@@ -1,6 +1,6 @@
 # Monitoring IoT environnemental — LoRaWAN, MQTT & Node-RED
 
-Projet réalisé en équipe dans le cadre du M2 SECIL (Univ. Paul Sabatier, 2024) :
+Projet réalisé en équipe dans le cadre du M2 SECIL (Univ. Paul Sabatier, 2025) :
 chaîne IoT complète, de l'acquisition des mesures jusqu'à leur visualisation,
 avec une étude de l'impact du Spreading Factor LoRaWAN sur les performances.
 
