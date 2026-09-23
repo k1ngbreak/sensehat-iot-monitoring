@@ -31,10 +31,18 @@ Sense HAT → Raspberry Pi (Python) → encodage CayenneLPP → LoRaWAN (module 
 
 ## Contenu du dépôt
 
-- `notebook1.ipynb` : [à adapter : acquisition / encodage / analyse ?]
-- `notebook2.ipynb` : [à adapter]
-- `notebook3.ipynb` : [à adapter]
-- `docs/Rapport_Tp_IOT.pdf` : rapport complet du projet
+- [`TP_SenseHat.ipynb`](./TP_SenseHat.ipynb) : récupération des mesures
+  (température, humidité, pression) depuis le Sense HAT, affichage sur la
+  matrice LED et encodage des données au format CayenneLPP.
+- [`TP_LoRaWAN.ipynb`](./TP_LoRaWAN.ipynb) : configuration du module
+  LoRa RN2483 (OTAA, UART), fonction d'envoi des trames et vérification de
+  la réception sur le broker MQTT.
+- [`TP_Performances_LoRaWAN.ipynb`](./TP_Performances_LoRaWAN.ipynb) : analyse des trames capturées
+  (30 par Spreading Factor, SF7 à SF12) — graphiques RSSI, SNR et taux de
+  réception par gateway.
+- [`docs/Rapport.pdf`](./Rapport.pdf) : rapport complet
+  du projet (M2 SECIL, 2024).
+
 
 ## Résultats
 
